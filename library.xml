@@ -1,0 +1,14 @@
+<library>
+  <book id="1">
+    <title>Python for Data Science</title>
+    <author>John Doe</author>
+    <genre>Data Science</genre>
+    <price>29.99</price>
+  </book>
+  <book id="2">
+    <title>Machine Learning Basics</title>
+    <author>Jane Smith</author>
+    <genre>Machine Learning</genre>
+    <price>39.99</price>
+  </book>
+</library>
